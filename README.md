@@ -1,6 +1,3 @@
-![image](https://github.com/yoyoking94/Fitness-inator/assets/56436435/96cc12ab-ee3c-4c45-b444-9799cc662095)
-https://fitness-inator.vercel.app/
-
 La présentation, la définition du projet ou de la réalisation :
 
 Fitness-inator est une landing page professionnelle pour une salle de gym fictive, développée entièrement en TypeScript avec une stack moderne React + Tailwind CSS + composants réutilisables. Ce projet ne se limite pas à une simple page vitrine : il intègre un système de planning interactif des cours (calendrier dynamique, modales d'inscription, filtres intelligents), un calculateur IMC en temps réel, une galerie photos responsive avec lightbox, un formulaire de contact validé et une section témoignages carrousel. L'ensemble offre une expérience utilisateur premium typique des sites sportifs haut de gamme, avec animations fluides, design mobile-first et architecture TypeScript strictement typée de bout en bout.
@@ -32,3 +29,6 @@ plus vu de mon portfolio GitHub. À 6 mois, j'ai extrait 12 composants réutilis
 Mon regard critique:
 
 Fitness-inator représente mon saut qualitatif en TypeScript : passage d'un usage superficiel à une architecture où le typage devient un atout productivité plutôt qu'une contrainte. Les défis majeurs (gestion types complexes Tailwind, hooks génériques, state mutations typées) m'ont forcé à explorer toute la palette TypeScript avancée, me positionnant niveau intermédiaire-supérieur. La difficulté principale fut l'équilibre typage/productivité – trop strict bloque, trop laxiste perd l'intérêt. Le succès du projet valide ma capacité à livrer des applications modernes solo, compétence clé pour l'alternance frontend. Ce projet a transformé ma perception du typage : non plus contrainte, mais accélérateur de développement.
+
+![image](https://github.com/yoyoking94/Fitness-inator/assets/56436435/96cc12ab-ee3c-4c45-b444-9799cc662095)
+https://fitness-inator.vercel.app/
